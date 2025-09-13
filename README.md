@@ -11,9 +11,7 @@
 ---
 
 ## 📝 Summary  
-Back-end developer skilled in **PHP, MySQL, and Linux server deployment**.  
-Experienced in **project management** and **client relations**.  
-Seeking opportunities to contribute technical expertise and deliver impactful solutions.  
+Back-end developer skilled in **PHP, MySQL, and Linux server deployment.Experienced in **project management** and **client relations**. Seeking opportunities to contribute technical expertise and deliver impactful solutions.  
 
 ---
 
