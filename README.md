@@ -11,6 +11,9 @@
 
 ## 🚀 About Me
 🔹 Back-end developer skilled in **PHP, MySQL, and Linux server deployment**.  
+🔹 Hands-on experience with **Django, Laravel, CodeIgniter, and Next.js** frameworks.  
+🔹 Proficient in **MySQL and PostgreSQL** database design and optimization.  
+🔹 Basic knowledge of **CI/CD pipelines** and deploying projects to production servers.  
 🔹 Experienced in **project management** and **client relations**.  
 🔹 Passionate about delivering **impactful technical solutions** with clean and efficient code.  
 
@@ -19,8 +22,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,python,html,css,bootstrap,laravel,django,express,react,nextjs,mysql,mongodb,git,docker,kubernetes,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,html,css,bootstrap,laravel,django,express,react,nextjs,mysql,postgresql,mongodb,git,docker,linux" />
 </p>
+
 
 ---
 
