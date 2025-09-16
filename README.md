@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-🔹 Back-end developer skilled in **PHP, MySQL, and Linux server deployment**.  
+🔹 Back-end developer skilled in **PHP,Javascript, Python, MySQL, Postgres, Mongodb and Linux server deployment**.  
 🔹 Hands-on experience with **Django, Laravel, CodeIgniter, and Next.js** frameworks.  
 🔹 Proficient in **MySQL and PostgreSQL** database design and optimization.  
 🔹 Basic knowledge of **CI/CD pipelines** and deploying projects to production servers.  
