@@ -30,13 +30,6 @@
 
 ## 💼 Experience
 
-**💼 Computing & Information Service Ltd, Uttara, BD**  
-*Programmer | 04/2024 – Present*  
-- Develop clean, efficient, and documented code.  
-- Test/debug applications for performance.  
-- Collaborate with stakeholders for technical solutions.  
-- Maintain and optimize existing systems.  
-
 **💼 Biz Bangla Media Limited, Kawran Bazar, BD**  
 *Software Engineer | 03/2021 – 04/2024*  
 - Update and maintain websites for security and performance.  
